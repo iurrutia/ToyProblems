@@ -1,9 +1,7 @@
 # README
 
-Putting up solutions to coding problems for self motivation to be more tidy.
+Putting up solutions to coding problems for self-motivation to be more tidy.
 
-
----
 
 [Printing the a nested adjacency list of a tree](#treeprint)
 
@@ -11,6 +9,8 @@ Putting up solutions to coding problems for self motivation to be more tidy.
 [Counting orthogonal rectangles in orthogonal point set](#rect)
 
 [Leetcode 30 day challenge](#leetcode)
+
+[Mock interview problems](#mock)
 
 
 ---
@@ -53,3 +53,13 @@ Given a point set P of points that lie on an x/y axis orthogonal grid, count the
 
 ### Notebook:
 [Link](https://github.com/iurrutia/ToyProblems/blob/master/leetcode30d.ipynb)  
+
+---
+
+## <a name="mock">Mock interview problems</a>
+
+Mock interview problems from Insight and other practice.
+
+
+### Notebook:
+[Link](https://github.com/iurrutia/ToyProblems/blob/master/PastMockInterviews.ipynb)  
