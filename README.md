@@ -10,6 +10,8 @@ Putting up solutions to coding problems for self-motivation to be more tidy.
 
 [Leetcode 30 day challenge](#leetcode)
 
+[Leetcode 75 problems challenge](#leetcode75)
+
 [Mock interview problems](#mock)
 
 
@@ -55,6 +57,17 @@ Given a point set P of points that lie on an x/y axis orthogonal grid, count the
 [Link](https://github.com/iurrutia/ToyProblems/blob/master/leetcode30d.ipynb)  
 
 ---
+## <a name="leetcode75">Leetcode 75 problems challenge</a>
+
+Extra practice. Solutions with practice with Insight fellows.
+
+
+### Notebook:
+[Link](https://github.com/iurrutia/ToyProblems/blob/master/75problems.ipynb)  
+
+---
+
+
 
 ## <a name="mock">Mock interview problems</a>
 
