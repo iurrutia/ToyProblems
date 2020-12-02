@@ -2,6 +2,8 @@
 
 Putting up solutions to coding problems for self-motivation to be more tidy.
 
+[2020 coding advent calendar](#2020advent)
+
 
 [Printing the a nested adjacency list of a tree](#treeprint)
 
@@ -17,6 +19,20 @@ Putting up solutions to coding problems for self-motivation to be more tidy.
 
 ---
 
+## <a name="2020advent">2020 coding advent calendar</a>
+
+
+Advent calendar, ... of coding problems! https://adventofcode.com/2020/
+
+
+### Notebook:
+[Link to notebook](https://github.com/iurrutia/ToyProblems/blob/master/advent2020.ipynb
+) 
+
+
+---
+
+
 
 ## <a name="treeprint">Printing the a nested adjacency list of a tree</a>
 
@@ -28,7 +44,7 @@ Note: I assumed the child, parent pairs were given as a set of tuples.
 
 
 ### Notebook:
-[Link](https://github.com/iurrutia/ToyProblems/blob/master/PrintingTree.ipynb
+[Link to notebook](https://github.com/iurrutia/ToyProblems/blob/master/PrintingTree.ipynb
 ) 
 
 
@@ -43,7 +59,7 @@ From: https://www.youtube.com/watch?v=EuPSibuIKIg
 Given a point set P of points that lie on an x/y axis orthogonal grid, count the number of orthogoral rectangles (with axes parallel to the x/y axes).
 
 ### Notebook:
-[Link](https://github.com/iurrutia/ToyProblems/blob/master/CountingRectangles.ipynb)  
+[Link to notebook](https://github.com/iurrutia/ToyProblems/blob/master/CountingRectangles.ipynb)  
 
 ---
 ## <a name="leetcode">Leetcode 30 day challenge</a>
@@ -54,7 +70,7 @@ Given a point set P of points that lie on an x/y axis orthogonal grid, count the
 
 
 ### Notebook:
-[Link](https://github.com/iurrutia/ToyProblems/blob/master/leetcode30d.ipynb)  
+[Link to notebook](https://github.com/iurrutia/ToyProblems/blob/master/leetcode30d.ipynb)  
 
 ---
 ## <a name="leetcode75">Leetcode 75 problems challenge</a>
@@ -63,7 +79,7 @@ Extra practice. Solutions with practice with Insight fellows.
 
 
 ### Notebook:
-[Link](https://github.com/iurrutia/ToyProblems/blob/master/75problems.ipynb)  
+[Link to notebook](https://github.com/iurrutia/ToyProblems/blob/master/75problems.ipynb)  
 
 ---
 
